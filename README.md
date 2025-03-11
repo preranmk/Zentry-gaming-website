@@ -19,7 +19,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🔗 [Assets](#links)
-7.
 
 ## ⚠️ Disclaimer
 
@@ -69,7 +68,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/preranmk/Zentry-Gaming-Website.git
-cd award-winning-website
+cd Zentry-Gaming-Website
 ```
 
 **Installation**
